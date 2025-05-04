@@ -1,3 +1,3 @@
 # React + Vite
 
-<kbr>npm install</kbr>
+<kbd>npm install</kbd>
