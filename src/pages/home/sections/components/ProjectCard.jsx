@@ -18,7 +18,7 @@ function ProjectCard({imgURL, title, desc, iconList}) {
       <div className={`text-black ${styles.text_area}`}>
           <h1 className="text-4xl">{title ? title: "No title"}</h1>
           <p className="text-xl">{desc ? desc : "No description"}</p>
-          <nav >
+          <nav className="w-fit">
             {icons}          
           </nav>
         </div>
