@@ -1,0 +1,12 @@
+
+.projects_container{
+
+  background-color: rgba(0, 5, 78, 0.295);
+}
+
+.projects {
+  display: grid;
+  grid-template-columns: 1fr 1fr;  
+  justify-items: center;
+  gap: 2em;
+}

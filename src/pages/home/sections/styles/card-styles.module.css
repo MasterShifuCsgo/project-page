@@ -1,0 +1,23 @@
+
+
+.card {
+  width: 40em;
+  border-radius: 2em;
+  background-color: rgb(255, 255, 255);
+}
+
+.card_image {
+  border-radius: 2em 2em 0px 0px;
+
+}
+
+.text_area{
+  display: flex;
+  flex-direction: column;
+  gap: 1em;
+
+}
+
+.card_bottom{
+  padding: 2em;
+}
