@@ -1,0 +1,23 @@
+.button {
+    padding: 0.5em 1em;
+    color: white;
+    font-size: 1em;
+    cursor: pointer;
+    transform: scale(1);
+    transition: all 0.2s cubic-bezier(0.075, 0.82, 0.165, 1);
+    font-size: x-large;
+}
+
+.button:hover {
+    transform: scale(1.05);
+}
+
+.background {
+    padding: 20px;
+    background-color: rgb(255, 255, 255);
+}
+
+.background_grid {
+    display: grid;
+
+}
